@@ -9,7 +9,7 @@ member bindings.
 
 ```hcl
 module "iam" {
-  source = "github.com/cybercapybara/terraform-google-iam"
+  source = "github.com/moveeeax/terraform-google-iam"
 
   project_id = var.project_id
 
